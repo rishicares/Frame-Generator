@@ -5,16 +5,16 @@ import PropTypes from "prop-types";
 const frames = [
     {
         id: 1,
-        name: "Kathmandu Kings",
+        name: "Frame 1",
         image: "/frames/frame1.png",
-        description: "Official frame for Kathmandu Kings supporters",
+        description: "Frame to support your cause",
         color: "from-purple-600 to-blue-600",
     },
     {
         id: 2,
-        name: "Pokhara Avengers",
+        name: "Frame 2",
         image: "/frames/frame2.png",
-        description: "Show your support for Pokhara Avengers",
+        description: "Frame to support your next cause",
         color: "from-red-600 to-orange-600",
     },
 ];
