@@ -1,13 +1,13 @@
 // FrameGenerator.jsx
 import { useState, useEffect, useCallback } from 'react';
-import {
-    FacebookShareButton,
-    TwitterShareButton,
-    WhatsappShareButton,
-    FacebookIcon,
-    TwitterIcon,
-    WhatsappIcon,
-} from 'react-share';
+// import {
+//     FacebookShareButton,
+//     TwitterShareButton,
+//     WhatsappShareButton,
+//     FacebookIcon,
+//     TwitterIcon,
+//     WhatsappIcon,
+// } from 'react-share';
 import ImageUploader from './ImageUploader';
 import FrameSelector from './FrameSelector';
 import { Download, Share2 } from 'lucide-react';
@@ -175,7 +175,7 @@ const FrameGenerator = () => {
                                                 </button>
                                             )}
 
-                                            {/* Fallback social share buttons */}
+                                            {/* Fallback social share buttons
                                             <FacebookShareButton
                                                 url={window.location.href}
                                                 quote={getShareConfig().quote}
@@ -206,7 +206,7 @@ const FrameGenerator = () => {
                                                     <WhatsappIcon size={24} round />
                                                     WhatsApp
                                                 </div>
-                                            </WhatsappShareButton>
+                                            </WhatsappShareButton> */}
                                         </div>
                                     </div>
                                 )}
