@@ -2,9 +2,7 @@
 
 An interactive web application that helps users create beautiful framed images with just a few clicks. Built with React and Vite, this tool offers a seamless experience for adding professional-looking frames to your photos.
 
-[Live Demo](https://frame-generator-iota.vercel.app/)
-
-![Frame Generator Demo](./public/demo-screenshot.png)
+[Live Demo](https://frame.rishikesh.info.np/)
 
 ## ✨ Features
 
